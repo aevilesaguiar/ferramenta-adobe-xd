@@ -83,7 +83,67 @@ Eu posso alterar o item filho reutilizável, e o pai não mudará. Mas se altera
 Toda vez que quero alterar um componente e quero que seja geral eu altero o fpai.
 
 
+![image](https://user-images.githubusercontent.com/52088444/184899094-b4720c3b-0c7b-408a-88de-9a1aef85ce64.png)
+área de ativos.
 
+Temos 3 estados:
+
+![image](https://user-images.githubusercontent.com/52088444/184900290-a29fbcd4-33f3-41f5-9b1b-1d14fb30c254.png)
+
+
+A partir dessas definições é que criamos os styles guides
+![image](https://user-images.githubusercontent.com/52088444/184900107-5567154e-ea29-4479-92b9-cac01a95f0c3.png)
+
+## Como importar os stylesGuide do seu produtos
+
+
+![image](https://user-images.githubusercontent.com/52088444/184901267-7ff51c01-e11c-490e-bdc3-defb2fe133dd.png)
+Vamos para a bilioteca
+
+![image](https://user-images.githubusercontent.com/52088444/184901673-34f849aa-1c24-47ed-8cce-21dcdf4dc95e.png)
+
+
+Podmos reutilizar, e isso é um bom ponto de partida
+
+![image](https://user-images.githubusercontent.com/52088444/184901993-5846d38f-22d8-4228-be37-4c6bacc2ae0d.png)
+
+
+## Ajustes responssivos
+
+Quando redimenssionamos não queremos que o elemento e tela não quebrem, com a definição de designer , seja para
+tablet, phone, desktop. Ajuste responssivo eles vem na maioria das vezes como padrão.
+
+
+![image](https://user-images.githubusercontent.com/52088444/184904137-dafb66f7-0d8c-4864-be2b-53d3a5fbd046.png)
+
+
+## Interações entre telas no sentido de protótipo
+
+![image](https://user-images.githubusercontent.com/52088444/184904871-e8e106f4-275c-495d-a19b-20fa9edfe700.png)
+![image](https://user-images.githubusercontent.com/52088444/184905000-05b17ca3-dee4-45bb-97c5-1a09f148d87d.png)
+
+O acionador de tempo só aparece quando estamos chamando a prancheta. (ou seja quando estou na tela tela home para tela lanches)
+voz podemos usar esse gatilho para alexa e outros.
+
+![image](https://user-images.githubusercontent.com/52088444/184905493-2f49cb09-350c-4dba-80fb-f0b77bd41d10.png)
+
+Essa cazinha significa onde vai começar o protótipo, ou seja o fluxo. Se dermos um play ele segue o fluxo , nesse caso clicando em lanches ele vai para a tela de lanches.
+
+## Areas de interação e os diferentes tipos de transição
+
+As areas de interação é o que exatamente será o gatilho/elemento que irá despertar uma ação que vai redirecionar você para uma prancheta;
+![image](https://user-images.githubusercontent.com/52088444/184906258-2a3473df-43dd-439a-b723-4456559831d6.png)
+
+Eu posso clicar em lanches e fazer uma transição para a tela de lanches.
+
+Transições é o que leva de uma prancheta para outra.
+![image](https://user-images.githubusercontent.com/52088444/184906608-f7ba0c8a-57f0-4867-a0f3-a0c2c3990686.png)
+
+Ou seja tentar transformar o elemento animado, podemos ter uma transição . 
+
+![image](https://user-images.githubusercontent.com/52088444/184907105-d20a30f3-4a4a-4ad3-8d21-e3fc2a8e799c.png)
+
+![image](https://user-images.githubusercontent.com/52088444/184907204-fb8e5320-0f68-4f3b-89cd-a9f84989ef98.png)
 
 
 
